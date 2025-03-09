@@ -27,7 +27,7 @@ Defintion for terms related to the project
 
 Metrics:
 
-Accuracy:
+*Accuracy:*
 Accuracy is a metric that generally describes how the model performs across all classes. It is useful when all classes are of equal importance. It is calculated as the ratio between the number of correct predictions to the total number of predictions.
 
 Precision: 
