@@ -17,4 +17,4 @@ https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pl
 
 
 * Powerpoint showcases my groups different codes and attempts to Reseach Ways to improve existing Facial Recognition models
-* The project involves other code as well from other group members however it is not be uploaded in this repository as it is their work.
+* The project involves other code as well from other group members however it is not uploaded in this repository as it is their work.
