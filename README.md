@@ -4,6 +4,7 @@
 
 Final Year (Capstone) Project, University Of Wollongong, October 2023 – March 2024
 
+The original Model uses MTCNN which has been modified to make it easier for me to test the modification of activation functionss of the CNN layers.
 
 This repository only contains the code and model that I modified from an existing model to test how the modification of activation fuctions such as LeakReLU, SoftMax, Sigmoid and how it would affect the Accuracy, Precision, Recall and Response time of the code.
 
@@ -48,10 +49,13 @@ The recall is calculated as the ratio between the number of Positive samples cor
 &nbsp;
 &nbsp;
 
-**Model related information:**
+**Code related information:**
 
 **Sequential model:**
 A model that is built by initializing a linear stack of layers.
+
+**Multi-task Cascaded Convolutional Neural Network (MTCNN):**
+MTCNN is for Face Detection, based on TensorFlow. Implementation of the MTCNN face detector for Keras in Python3.4+. It is written from scratch, using as a reference the implementation of MTCNN from David Sandberg (FaceNet’s MTCNN) in Facenet. It is based on the paper Zhang, K et al. (2016).
 
 &nbsp;
 &nbsp;
