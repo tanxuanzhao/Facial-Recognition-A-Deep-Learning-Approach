@@ -1,5 +1,6 @@
 # Facial-Recognition-A-Deep-Learning-Approach
-Research related to improving facial recognition models - Final Year Project, University Of Wollongong, October 2023 – March 2024
+Research related to improving facial recognition models
+Final Year (Capstone) Project, University Of Wollongong, October 2023 – March 2024
 
 
 This repository only contains code that I used and modified from an existing model to test how the modification of LeakReLU, SoftMax, Sigmoid would affect the Accuracy, Precision, Recall and Response time of the code.
