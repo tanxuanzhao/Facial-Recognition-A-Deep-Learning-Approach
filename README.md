@@ -39,16 +39,23 @@ The precision is calculated as the ratio between the number of Positive samples 
 
 The decision of whether to use precision or recall depends on the type of problem being solved. If the goal is to detect all the positive samples (without caring whether negative samples would be misclassified as positive), then use recall. Use precision if the problem is sensitive to classifying a sample as Positive in general, i.e. including Negative samples that were falsely classified as Positive.
 
-
 **Recall:**
 The recall is calculated as the ratio between the number of Positive samples correctly classified as Positive to the total number of Positive samples. The recall measures the model's ability to detect Positive samples. The higher the recall, the more positive samples detected.
 ![alt text](https://github.com/tanxuanzhao/Facial-Recognition-A-Deep-Learning-Approach/blob/main/images-for-readme./recall.PNG?raw=true)
 
-Model related information:
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+**Model related information:**
 
 **Sequential model:**
 A model that is built by initializing a linear stack of layers.
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 **Activation functions:**
 
