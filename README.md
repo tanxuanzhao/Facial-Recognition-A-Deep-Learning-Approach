@@ -18,7 +18,11 @@ https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pl
 * The project involves other codes and models from other group members however it is not uploaded in this repository as it is their work.
 * Previously attempted to do external modifications such as adjusting contrast and Brightness for the images parsed in for Facial Recognition and was not favorable and was rejected by the main stakeholder the Supervising Lecturer due to specification of the project to be done purely focusing on the facial recognition model itself as such modifications were done inside the model only.
 
-$~~~$
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 Defintion for terms related to the project
 
 Metrics:
