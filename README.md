@@ -23,7 +23,7 @@ https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pl
 &nbsp;
 
 
-**Defintion for terms related to the project**
+**Defintions for terms related to the project**
 
 **Metrics:**
 
