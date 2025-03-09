@@ -7,10 +7,6 @@ Final Year (Capstone) Project, University Of Wollongong, October 2023 – March 
 
 This repository only contains the code and model that I used and modified from an existing model to test how the modification of LeakReLU, SoftMax, Sigmoid would affect the Accuracy, Precision, Recall and Response time of the code.
 
-Previously attempt to do external modifications such as adjusting contrast and Brightness for the images parsed in for Facial Recognition and was not favorable and was rejected by the main stakeholder the Supervising Lecturer as such modifications were done inside the model only.
-
-
-
 Short video describing the modification of my code and what it does
 https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view
 
@@ -20,3 +16,4 @@ https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pl
 
 * Powerpoint showcases my group's attempts to reseach ways to improve existing Facial Recognition models
 * The project involves other codes and models from other group members however it is not uploaded in this repository as it is their work.
+* Previously attempted to do external modifications such as adjusting contrast and Brightness for the images parsed in for Facial Recognition and was not favorable and was rejected by the main stakeholder the Supervising Lecturer due to specification of the project to be done purely focusing on the facial recognition model itself as such modifications were done inside the model only.
