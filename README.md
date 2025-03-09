@@ -5,7 +5,7 @@
 Final Year (Capstone) Project, University Of Wollongong, October 2023 – March 2024
 
 
-This repository only contains the code and model that I used and modified from an existing model to test how the modification of LeakReLU, SoftMax, Sigmoid would affect the Accuracy, Precision, Recall and Response time of the code.
+This repository only contains the code and model that I modified from an existing model to test how the modification of activation fuctions such as LeakReLU, SoftMax, Sigmoid and how it would affect the Accuracy, Precision, Recall and Response time of the code.
 
 Short video describing the modification of my code and what it does
 https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view
