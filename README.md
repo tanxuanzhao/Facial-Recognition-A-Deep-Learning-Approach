@@ -1,4 +1,4 @@
-# Facial - Recognition: A Deep Learning Approach
+# Facial Recognition: A Deep Learning Approach
 
 **Research related to improving facial recognition models**
 
