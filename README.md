@@ -57,6 +57,9 @@ A model that is built by initializing a linear stack of layers.
 **Multi-task Cascaded Convolutional Neural Network (MTCNN):**
 MTCNN is for Face Detection, based on TensorFlow. Implementation of the MTCNN face detector for Keras in Python3.4+. It is written from scratch, using as a reference the implementation of MTCNN from David Sandberg (FaceNet’s MTCNN) in Facenet. It is based on the paper Zhang, K et al. (2016).
 
+**Epoch:**
+An epoch is when all the training data is used at once and is defined as the total number of iterations of all the training data in one cycle for training the machine learning model. 
+
 &nbsp;
 &nbsp;
 &nbsp;
