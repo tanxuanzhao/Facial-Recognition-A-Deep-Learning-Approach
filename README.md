@@ -14,7 +14,7 @@ For Modified Softmax Model a test from the range of 10% sigmoid value to 90% Sig
 
 For Modified LeakReLU a test from the range of alpha 0.1 to 1 is done.
 
-For detail testing results and details refer to:
+**For detailed testing results, please refer to:**
 
 [Testing results collated on an Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1VRlNWW4ECAq2A-0j24l10WNPhOHGx97E/edit?pli=1&gid=434247271#gid=434247271)
 
