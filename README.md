@@ -18,7 +18,7 @@ For Modified LeakReLU a test from the range of alpha 0.1 to 1 is done.
 
 [All test results collated on an Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1VRlNWW4ECAq2A-0j24l10WNPhOHGx97E/edit?pli=1&gid=434247271#gid=434247271)
 
-This repository only contains the code and model that I modified from an existing model to test how the modification of activation fuctions such as LeakReLU, SoftMax, Sigmoid and how it would affect the Accuracy, Precision, Recall and Response time of the code.
+This repository only contains the code and model that I modified from an existing model to test how the modification of activation fuctions such as LeakyReLU, SoftMax, Sigmoid and how it would affect the Accuracy, Precision, Recall and Response time of the code.
 
 [Short video describing the modification of my code and what it does](https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view)\
 [Powerpoint Presenation for Project showcaseing my groups research ways to improve different facial recognition models](https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pli=1#slide=id.p1)
