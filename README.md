@@ -6,11 +6,24 @@ Final Year (Capstone) Project, University Of Wollongong, October 2023 – March 
 
 The original Model uses MTCNN which has been modified to make it easier for me to test the modification of activation functionss of the CNN layers.
 
+For the Original CNN/ MTCNN model 1 test is done with nothing changed.
+
+For the Modified Sigmoid Model a test from the range of 10% of sigmoid value to 90% of Sigmoid value is done.
+
+For Modified Softmax Model a test from the range of 10% sigmoid value to 90% Sigmoid value is done.
+
+For Modified LeakReLU a test from the range of alpha 0.1 to 1 is done.
+
+For detail testing results and details refer to:
+
+[Testing results collated on an Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1VRlNWW4ECAq2A-0j24l10WNPhOHGx97E/edit?pli=1&gid=434247271#gid=434247271)
+
 This repository only contains the code and model that I modified from an existing model to test how the modification of activation fuctions such as LeakReLU, SoftMax, Sigmoid and how it would affect the Accuracy, Precision, Recall and Response time of the code.
 
 [Short video describing the modification of my code and what it does](https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view)\
-[Powerpoint Presenation for Project showcaseing my groups research ways to improve different facial recognition models](https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pli=1#slide=id.p1)\
-[Testing results collated on an Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1VRlNWW4ECAq2A-0j24l10WNPhOHGx97E/edit?pli=1&gid=434247271#gid=434247271)
+[Powerpoint Presenation for Project showcaseing my groups research ways to improve different facial recognition models](https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pli=1#slide=id.p1)
+
+
 
 * Powerpoint showcases my group's attempts to reseach ways to improve existing Facial Recognition models
 * The project involves other codes and models from other group members however it is not uploaded in this repository as it is their work.
