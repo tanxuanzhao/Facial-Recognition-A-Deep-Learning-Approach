@@ -18,15 +18,13 @@ For Modified LeakReLU a test from the range of alpha 0.1 to 1 is done.
 
 [All test results collated on an Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1VRlNWW4ECAq2A-0j24l10WNPhOHGx97E/edit?pli=1&gid=434247271#gid=434247271)
 
-This repository only contains the code and model that I modified from an existing model to test how the modification of activation fuctions such as LeakyReLU, SoftMax, Sigmoid and how it would affect the Accuracy, Precision, Recall and Response time of the code.
+The original Model uses MTCNN which has been modified to make it easier for me to test the modification of activation functions of the CNN layers. I modified the original model to test how the modification of activation fuctions such as LeakyReLU, SoftMax, Sigmoid and would affect the Accuracy, Precision, Recall and Response time of the Model. At the end of all the tests, the model with the best performance is chosen.
 
-[Short video describing the modification of my code and what it does](https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view)\
+[Short video describing the modification of my code and what it does](https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view)
+
 [Powerpoint Presenation for Project showcaseing my groups research ways to improve different facial recognition models](https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pli=1#slide=id.p1)
-
-
-
 * Powerpoint showcases my group's attempts to reseach ways to improve existing Facial Recognition models
-* The project involves other codes and models from other group members however it is not uploaded in this repository as it is their work.
+* Only work that I have done is uploaded to this repository. The whole project involves other codes and models from other group members however it is not uploaded in this repository as it is their work. 
 * Previously attempted to do external modifications such as adjusting contrast and Brightness for the images parsed in for Facial Recognition and was not favorable and was rejected by the main stakeholder the Supervising Lecturer due to specification of the project to be done purely focusing on the facial recognition model itself as such modifications were done inside the model only.
 
 &nbsp;
